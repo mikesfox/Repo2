@@ -15,7 +15,7 @@ MainClass::~MainClass()
 {
 }
 
-//forward declarations
+//forward declarations for functions
 float computeTax(float sal, float taxRate);
 float computeAnnualNet(float salary, float taxRate);
 
